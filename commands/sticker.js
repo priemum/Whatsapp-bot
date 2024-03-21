@@ -11,7 +11,7 @@ const execute = async (client,msg) => {
   var data_level=data.level
   console.log("discord-xp");
   console.log(data_level);
-  }
+  }        
   catch(error){
       console.log(error);
   }
